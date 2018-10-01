@@ -12,3 +12,7 @@ table.table th,
 table.table td {
     border: 1px solid #dee2e6;
 }
+
+button {
+    outline: none;
+}
