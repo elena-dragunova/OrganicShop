@@ -16,3 +16,8 @@ table.table td {
 button {
     outline: none;
 }
+
+div.no-gutters.quantity {
+    align-items: center;
+    padding-top: 5px;
+}
