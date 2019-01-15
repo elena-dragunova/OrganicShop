@@ -1,4 +1,5 @@
 # OrganicShop
+https://organicshop-5c1a1.firebaseapp.com/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
