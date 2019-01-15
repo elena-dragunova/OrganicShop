@@ -5,3 +5,8 @@
 .card-footer {
     padding:0;
 }
+
+.card-img-top {
+    height: 218px;
+    object-fit: cover;
+}
